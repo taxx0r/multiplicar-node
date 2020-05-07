@@ -23,3 +23,6 @@ switch (comando) {
 
 // Prueba gitlens
 console.log('Esto es una prueba de gitlens');
+
+// Un commit más
+console.log('Un commit más');
