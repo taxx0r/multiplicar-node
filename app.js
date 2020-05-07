@@ -19,3 +19,7 @@ switch (comando) {
     default:
         console.log('Comando no reconocido.');
 }
+
+
+// Prueba gitlens
+console.log('Esto es una prueba de gitlens');
